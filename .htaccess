@@ -1,0 +1,5 @@
+php_value error_reporting 4
+AddDefaultCharset UTF8
+Options All -Indexes
+php_flag display_errors on
+Options +FollowSymlinks
